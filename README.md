@@ -21,8 +21,8 @@ This is a simple weather application built with React that allows users to searc
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
+![Screenshot 1](/src/screenshot1.png)
+![Screenshot 2](/src/screenshot2.png)
 
 ## Installation
 
