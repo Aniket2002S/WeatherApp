@@ -22,7 +22,7 @@ This is a simple weather application built with React that allows users to searc
 ## Screenshots
 
 ![Screenshot 1](/src/screenshot1.png)
-![Screenshot 2](/src/screenshot2.png)
+![Screenshot 2](/src/Screenshot2.png)
 
 ## Installation
 
